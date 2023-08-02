@@ -20,7 +20,7 @@ const EarningShake = ({ style }: IEarningShake) => {
 
 	useEffect(() => {
 		shakeCounter();
-	}, []);
+	}, [count]);
 
 	return (
 		<View style={style}>
