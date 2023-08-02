@@ -1,0 +1,71 @@
+[
+	{
+		"tournament": "Final 1/2",
+		"date": "12.12.2023",
+		"first_team": {
+			"name": "Anaheim Ducks ",
+			"logo": "https://cms.nhl.bamgrid.com/images/assets/binary/299423002/binary-file/file.svg",
+			"goals": ["Sam Carrick 2'", "Sam Carrick 6'", "Sam Carrick 8'"],
+			"players_list": [
+				{
+					"id": "1",
+					"name": "Sam Carrick",
+					"image": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8475842.jpg"
+				},
+				{
+					"id": "2",
+					"name": "Sam Carrick",
+					"image": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8475842.jpg"
+				},
+				{
+					"id": "3",
+					"name": "Sam Carrick",
+					"image": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8475842.jpg"
+				},
+				{
+					"id": "4",
+					"name": "Sam Carrick",
+					"image": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8475842.jpg"
+				},
+				{
+					"id": "5",
+					"name": "Sam Carrick",
+					"image": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8475842.jpg"
+				}
+			]
+		},
+		"second_team": {
+			"name": "Chicago Blackhawks ",
+			"logo": "https://cms.nhl.bamgrid.com/images/assets/binary/301971744/binary-file/file.svg",
+			"goals": ["Taylor Hall 2'", "Taylor Hall 6'", "Taylor Hall 8'"],
+
+			"players_list": [
+				{
+					"id": "1",
+					"name": "Taylor Hall",
+					"image": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8475791.jpg"
+				},
+				{
+					"id": "2",
+					"name": "Taylor Hall",
+					"image": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8475791.jpg"
+				},
+				{
+					"id": "3",
+					"name": "Taylor Hall",
+					"image": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8475791.jpg"
+				},
+				{
+					"id": "4",
+					"name": "Taylor Hall",
+					"image": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8475791.jpg"
+				},
+				{
+					"id": "5",
+					"name": "Taylor Hall",
+					"image": "https://cms.nhl.bamgrid.com/images/headshots/current/168x168/8475791.jpg"
+				}
+			]
+		}
+	}
+]
